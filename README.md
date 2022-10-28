@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/mosip/commons.svg?branch=master)](https://travis-ci.com/mosip/commons)
+[![Maven Package upon a push](https://github.com/mosip/mosip-openid-bridge/actions/workflows/push_trigger.yml/badge.svg?branch=master)](https://github.com/mosip/mosip-openid-bridge/actions/workflows/push_trigger.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mosip_mosip-openid-bridge&metric=alert_status)](https://sonarcloud.io/dashboard?branch=master&id=mosip_mosip-openid-bridge)
 
 [![Join the chat at https://gitter.im/mosip-community/Commons-Kernel](https://badges.gitter.im/mosip-community/Commons-Kernel.svg)](https://gitter.im/mosip-community/Commons-Kernel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
